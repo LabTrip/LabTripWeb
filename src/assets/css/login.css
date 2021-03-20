@@ -1,0 +1,27 @@
+.container-principal {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #fff;
+}
+
+.container-duplo {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: nowrap;
+}
+
+.imagem-principal {
+    margin: 30px;
+}
+
+.imagem-principal img {
+    max-width: 500px;
+    max-height: 800px;
+}
+
+.formulario-principal {
+    margin: 30px;
+}
