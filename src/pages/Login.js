@@ -15,19 +15,15 @@ function Login() {
 
         <div className="formulario-principal">
           <h1>Olá! Seja bem vindo ao LapTrip para agências.</h1>
-          
-          <input type="text" placeholder="seuemail@gmail.com"/> 
-          <input type="text" placeholder="senha123"/> 
-          <div className="btn-entrar"> 
-            
-              <button>
-                <a href="#">Entrar</a>
-              </button>
-            
+
+          <input type="text" placeholder="seuemail@gmail.com" />
+          <input type="text" placeholder="senha123" />
+          <div className="btn-entrar">
+            <button>
+              <a href={"#"}>Entrar</a>
+            </button>
           </div>
-          
-          
-          
+
           <a href="#">
             Esqueceu sua senha?
           </a>
