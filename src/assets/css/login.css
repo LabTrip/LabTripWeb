@@ -12,6 +12,7 @@ h1 {
     background-color: #3385FF;
     color: white;
     font-family: 'Roboto', sans-serif;
+    height: 100vh;
 }
 
 .container-duplo {
